@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "reference": {
+    "id": "new-test-landing-page",
+    "name": "New Test Landing Page",
+    "description": "",
+    "type": "artifact",
+    "subtype": "code",
+    "projects": [],
+    "created": "2025-08-26T23:29:42.444Z",
+    "modified": "2025-08-26T23:29:42.444Z"
+  }
+}
