@@ -6,8 +6,17 @@
     "description": "",
     "type": "artifact",
     "subtype": "code",
-    "projects": [],
+    "projects": [
+      "ecotrack"
+    ],
     "created": "2025-08-26T23:29:42.444Z",
-    "modified": "2025-08-26T23:29:42.444Z"
+    "modified": "2025-08-26T23:29:42.496Z",
+    "readReferences": [
+      "project-overview",
+      "branding-guidelines",
+      "code-guidelines",
+      "logo",
+      "design-system"
+    ]
   }
 }
